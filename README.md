@@ -1,4 +1,4 @@
-# Hi, I'm Payian Nashipai Lilian 👋
+# Hi, I'm Payian Nashipai Lilian 
 
 ### Engineering AI Evaluator | LLM Evaluator | Image Evaluator
 
